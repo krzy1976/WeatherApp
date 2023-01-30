@@ -4,6 +4,7 @@ public interface ApiQuery {
         String surname;
         int age;
         int age2;
+        int age3;
 
 
 

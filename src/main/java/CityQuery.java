@@ -3,6 +3,7 @@ public class CityQuery {
     String surname;
     int age;
     int age2;
+    int age3;
 
 
 
