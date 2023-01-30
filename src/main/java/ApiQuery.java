@@ -3,6 +3,7 @@ public interface ApiQuery {
         String name;
         String surname;
         int age;
+        int age2;
 
 
 
