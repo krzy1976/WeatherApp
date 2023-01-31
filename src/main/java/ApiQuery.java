@@ -3,13 +3,13 @@ public interface ApiQuery {
         String name;
         String surname;
         int age;
-        int age2;
+        int age42;
         int age4;
-        int age8;
+        int age48;
         int age5;
-        int age7;
+        int age67;
         int age9;
-        int age11;
+        int age181;
 
 
 
