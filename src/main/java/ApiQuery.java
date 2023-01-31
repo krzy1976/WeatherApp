@@ -5,6 +5,7 @@ public interface ApiQuery {
         int age;
         int age2;
         int age3;
+        int age4;
 
 
 

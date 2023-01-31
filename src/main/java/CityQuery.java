@@ -4,6 +4,8 @@ public class CityQuery {
     int age;
     int age2;
     int age3;
+    int age4;
+    int age5;
 
 
 
